@@ -30,12 +30,16 @@ export default function CaseStudies() {
 
     {
       title: "Taj Signature",
+    
       challenge:
-        "Create a luxury e-commerce experience aligned with a premium brand image.",
+        "Create an elegant e-commerce experience aligned with a luxury brand identity.",
+    
       solution:
-        "Built and managed a Shopify store focused on elegant product presentation and user experience.",
+        "Built and managed a Shopify storefront focused on premium product presentation and customer experience.",
+    
       role:
-        "Store Design • Content Structure • UX",
+        "Store Design | UX Strategy | Content Structure",
+    
       platform:
         "Shopify",
     },
@@ -72,7 +76,21 @@ export default function CaseStudies() {
         "Wix",
     },
     
-
+    {
+      title: "SAM PM Institute",
+    
+      challenge:
+        "Create a learning-focused platform capable of delivering educational content in a structured and accessible way.",
+    
+      solution:
+        "Supported website structure, content organization, and user experience for an educational platform in the precious metals industry.",
+    
+      role:
+        "Website Management | UX Planning | Content Organization",
+    
+      platform:
+        "WordPress",
+    },
 
   ];
 
