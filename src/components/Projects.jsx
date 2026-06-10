@@ -49,6 +49,16 @@ export default function Projects() {
       description:
         "Learning-focused platform designed to support precious metals education.",
     },
+
+    {
+      title: "Wahaj Gold (WordPress)",
+      category: "WordPress Website & Hosting Setup",
+      image: "/images/wahaj-wordpress.png",
+      link: "https://staging.wahajgold.com",
+      description:
+        "Designed and managed the WordPress implementation of Wahaj Gold, including hosting configuration, cPanel setup, staging environment management, and launch preparation.",
+    },
+    
   ];
 
   return (
