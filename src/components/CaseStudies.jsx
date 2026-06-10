@@ -1,96 +1,81 @@
-const studies = [
-  {
-    title: "Wahaj Gold Landing Page",
-    challenge:
-      "Create a premium digital experience that reflects the luxury positioning of a precious metals brand and communicates trust immediately.",
+export default function CaseStudies() {
+  const studies = [
+    {
+      title: "Wahaj Gold",
+      challenge:
+        "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
+      solution:
+        "Designed and developed a custom landing page focused on trust, visual storytelling, and lead generation.",
+      role:
+        "UX Strategy • Web Design • Development • Content Structure",
+      platform:
+        "React • GitHub • Vercel",
+    },
 
-    solution:
-      "Designed and developed a custom-coded landing page focused on storytelling, premium visuals, and lead generation.",
+    {
+      title: "SAM Precious Metals",
+      challenge:
+        "Modernize the company's digital presence and improve communication with B2B clients.",
+      solution:
+        "Managed and optimized the corporate website, content structure, and user experience.",
+      role:
+        "Website Management • Content Strategy • UX Optimization",
+      platform:
+        "WordPress",
+    },
 
-    role:
-      "UX Strategy • Content Structure • Front-End Development • Deployment",
+    {
+      title: "Taj Signature",
+      challenge:
+        "Create a luxury e-commerce experience aligned with a premium brand image.",
+      solution:
+        "Built and managed a Shopify store focused on elegant product presentation and user experience.",
+      role:
+        "Store Design • Content Structure • UX",
+      platform:
+        "Shopify",
+    },
+  ];
 
-    platform:
-      "React • GitHub • Vercel",
-  },
+  return (
+    <section id="case-studies" className="case-studies">
+      <div className="container">
 
-  {
-    title: "Wahaj Gold Website (WordPress)",
+        <h2>Featured Case Studies</h2>
 
-    challenge:
-      "Build and prepare the company's primary website infrastructure while establishing a scalable environment for future growth.",
+        {studies.map((study) => (
+          <div className="case-study" key={study.title}>
 
-    solution:
-      "Implemented the WordPress website, configured hosting resources, managed cPanel setup, organized staging workflows, and prepared the platform for launch.",
+            <h3>{study.title}</h3>
 
-    role:
-      "WordPress Development • Website Management • Hosting Setup • cPanel Configuration",
+            <div className="case-grid">
 
-    platform:
-      "WordPress • Hosting • cPanel",
-  },
+              <div>
+                <h4>Challenge</h4>
+                <p>{study.challenge}</p>
+              </div>
 
-  {
-    title: "SAM Precious Metals",
+              <div>
+                <h4>Solution</h4>
+                <p>{study.solution}</p>
+              </div>
 
-    challenge:
-      "Strengthen the company's digital presence and improve communication with B2B clients and investors.",
+              <div>
+                <h4>My Role</h4>
+                <p>{study.role}</p>
+              </div>
 
-    solution:
-      "Managed and optimized website structure, content organization, and user experience while supporting ongoing digital initiatives.",
+              <div>
+                <h4>Platform</h4>
+                <p>{study.platform}</p>
+              </div>
 
-    role:
-      "Website Management • UX Optimization • Content Strategy",
+            </div>
 
-    platform:
-      "WordPress",
-  },
+          </div>
+        ))}
 
-  {
-    title: "Twenty Seven Marketing",
-
-    challenge:
-      "Present the agency's services and expertise through a modern, professional online presence.",
-
-    solution:
-      "Designed and managed a Wix-based website focused on clarity, service communication, and credibility.",
-
-    role:
-      "Website Design • UX Planning • Content Structure",
-
-    platform:
-      "Wix",
-  },
-
-  {
-    title: "Taj Signature",
-
-    challenge:
-      "Create an elegant e-commerce experience aligned with a luxury brand image.",
-
-    solution:
-      "Developed and managed a Shopify storefront focused on premium product presentation and customer experience.",
-
-    role:
-      "Store Design • UX Strategy • Content Structure",
-
-    platform:
-      "Shopify",
-  },
-
-  {
-    title: "SAM PM Institute",
-
-    challenge:
-      "Create an educational platform that delivers learning content in a structured and accessible way.",
-
-    solution:
-      "Supported website structure, content organization, and user experience for a learning-focused platform.",
-
-    role:
-      "Website Management • UX Planning • Content Organization",
-
-    platform:
-      "WordPress",
-  },
-];
+      </div>
+    </section>
+  );
+}
