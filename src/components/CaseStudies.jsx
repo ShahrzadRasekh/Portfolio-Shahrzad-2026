@@ -38,15 +38,38 @@ export default function CaseStudies() {
 
     {
       title: "Wahaj Gold Website (WordPress)",
+    
       challenge:
-        "Build and prepare the company's primary website infrastructure.",
+        "Build the company's main website while preparing a scalable environment for future expansion and launch.",
+    
       solution:
-        "Implemented the WordPress website and configured hosting and cPanel.",
+        "Implemented the WordPress website, configured hosting resources, organized the staging environment, and prepared the platform for launch.",
+    
       role:
-        "WordPress Development • Hosting Setup • cPanel Configuration",
+        "WordPress Development | Website Management | Hosting Setup | cPanel Configuration",
+    
       platform:
-        "WordPress • cPanel",
+        "WordPress | Hosting | cPanel",
     },
+
+
+    {
+      title: "SAM Precious Metals",
+    
+      challenge:
+        "Strengthen the company's online presence and improve communication with B2B clients and investors.",
+    
+      solution:
+        "Managed and optimized website structure, content organization, user experience, and ongoing website improvements.",
+    
+      role:
+        "Website Management | UX Optimization | Content Strategy",
+    
+      platform:
+        "WordPress",
+    },
+
+    
   ];
 
   return (
