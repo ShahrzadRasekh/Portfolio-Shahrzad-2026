@@ -35,6 +35,18 @@ export default function CaseStudies() {
       platform:
         "Shopify",
     },
+
+    {
+      title: "Wahaj Gold Website (WordPress)",
+      challenge:
+        "Build and prepare the company's primary website infrastructure.",
+      solution:
+        "Implemented the WordPress website and configured hosting and cPanel.",
+      role:
+        "WordPress Development • Hosting Setup • cPanel Configuration",
+      platform:
+        "WordPress • cPanel",
+    },
   ];
 
   return (

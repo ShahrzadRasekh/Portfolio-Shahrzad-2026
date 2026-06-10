@@ -5,7 +5,7 @@ export default function Hero() {
       <div className="hero-content">
 
         <p className="hero-label">
-          Senior Web Developer • UX Strategist • Digital Experience Specialist
+        Senior Web Developer • Digital Experience Manager • UX Strategist • SEO • Website Management
         </p>
 
         <h1>
