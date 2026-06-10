@@ -4,7 +4,7 @@ export default function Projects() {
       title: "Wahaj Gold",
       category: "Custom Coded Landing Page",
       image:
-        "https://images.unsplash.com/photo-1610375461246-83df859d849d",
+      "/images/WahajLandingPage.png" ,
       link: "https://wahajgold.com",
       description:
         "Designed and developed a premium landing page experience for a luxury precious metals brand.",
