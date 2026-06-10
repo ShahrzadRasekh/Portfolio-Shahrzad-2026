@@ -14,12 +14,16 @@ export default function CaseStudies() {
 
     {
       title: "SAM Precious Metals",
+    
       challenge:
-        "Modernize the company's digital presence and improve communication with B2B clients.",
+        "Strengthen the company's online presence and improve communication with B2B clients and investors.",
+    
       solution:
-        "Managed and optimized the corporate website, content structure, and user experience.",
+        "Managed and optimized website structure, content organization, user experience, and ongoing website improvements.",
+    
       role:
-        "Website Management • Content Strategy • UX Optimization",
+        "Website Management | UX Optimization | Content Strategy",
+    
       platform:
         "WordPress",
     },
@@ -52,24 +56,24 @@ export default function CaseStudies() {
         "WordPress | Hosting | cPanel",
     },
 
-
     {
-      title: "SAM Precious Metals",
+      title: "Twenty Seven Marketing",
     
       challenge:
-        "Strengthen the company's online presence and improve communication with B2B clients and investors.",
+        "Present the agency's services and expertise through a professional and modern digital presence.",
     
       solution:
-        "Managed and optimized website structure, content organization, user experience, and ongoing website improvements.",
+        "Designed and managed a Wix-based website focused on service communication, credibility, and user experience.",
     
       role:
-        "Website Management | UX Optimization | Content Strategy",
+        "Website Design | UX Planning | Content Structure",
     
       platform:
-        "WordPress",
+        "Wix",
     },
-
     
+
+
   ];
 
   return (
