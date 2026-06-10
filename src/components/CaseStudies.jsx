@@ -1,7 +1,7 @@
 export default function CaseStudies() {
   const studies = [
     {
-      title: "Wahaj Gold",
+      title: "Wahaj Gold Landing Page",
       challenge:
         "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
       solution:
