@@ -44,7 +44,7 @@ export default function Projects() {
       title: "SAM PM Institute",
       category: "Educational Platform",
       image:
-        "https://images.unsplash.com/photo-1523240795612-9a054b0db644",
+        "/images/saminst1.webp",
       link: "https://sampm.institute",
       description:
         "Learning-focused platform designed to support precious metals education.",
