@@ -14,7 +14,7 @@ export default function Projects() {
       title: "SAM Precious Metals",
       category: "WordPress Corporate Website",
       image:
-        "https://images.unsplash.com/photo-1559526324-593bc073d938",
+        "/images/sam1.webp",
       link: "https://sampreciousmetals.com",
       description:
         "Corporate website focused on trust, credibility, and B2B lead generation.",
