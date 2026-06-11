@@ -4,7 +4,7 @@ export default function Projects() {
       title: "Wahaj Gold",
       category: "Custom Coded Landing Page",
       image:
-      "/images/WahajLandingPage.png" ,
+      "/images/landingwahaj.png" ,
       link: "https://wahajgold.com",
       description:
         "Designed and developed a premium landing page experience for a luxury precious metals brand.",
@@ -24,7 +24,7 @@ export default function Projects() {
       title: "Taj Signature",
       category: "Shopify E-commerce",
       image:
-        "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+      "/images/taj2.webp",
       link: "https://tajsignature.com",
       description:
         "Luxury Shopify store with a strong focus on premium customer experience.",
