@@ -4,13 +4,13 @@ export default function Expertise() {
     "Shopify",
     "Wix",
     "React",
+    "Webflow",
+    "Framer",
     "Landing Pages",
     "SEO",
     "UX Strategy",
     "Wireframing",
     "Content Strategy",
-    "Digital Marketing",
-    "Conversion Optimization",
     "Website Management",
   ];
 

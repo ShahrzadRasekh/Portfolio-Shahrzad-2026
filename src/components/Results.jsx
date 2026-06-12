@@ -17,7 +17,7 @@ export default function Results() {
           </div>
 
           <div className="stat">
-            <h2>4</h2>
+            <h2>5</h2>
             <p>Platforms Mastered</p>
           </div>
 

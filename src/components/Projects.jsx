@@ -24,7 +24,7 @@ export default function Projects() {
       title: "Taj Signature",
       category: "Shopify E-commerce",
       image:
-      "/images/taj2.webp",
+      "/images/taj3.webp",
       link: "https://tajsignature.com",
       description:
         "Luxury Shopify store with a strong focus on premium customer experience.",
