@@ -1,7 +1,7 @@
 export default function CaseStudies() {
   const studies = [
     {
-      title: "Wahaj Gold",
+      title: "Wahaj Gold (Landing Page)",
       challenge:
         "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
       solution:
@@ -14,27 +14,68 @@ export default function CaseStudies() {
 
     {
       title: "SAM Precious Metals",
+    
       challenge:
-        "Modernize the company's digital presence and improve communication with B2B clients.",
+        "Enhance the company's online presence and improve communication with B2B clients, investors, and partners.",
+    
       solution:
-        "Managed and optimized the corporate website, content structure, and user experience.",
+        "Managed website structure, content updates, user experience improvements, and ongoing website optimization initiatives.",
+    
       role:
-        "Website Management • Content Strategy • UX Optimization",
+        "Website Management | UX Optimization | Content Strategy",
+    
       platform:
         "WordPress",
     },
 
     {
       title: "Taj Signature",
+    
       challenge:
-        "Create a luxury e-commerce experience aligned with a premium brand image.",
+        "Develop a luxury e-commerce experience aligned with the brand's artistic and premium positioning.",
+    
       solution:
-        "Built and managed a Shopify store focused on elegant product presentation and user experience.",
+        "Built and managed a Shopify storefront with a focus on elegant product presentation and customer experience.",
+    
       role:
-        "Store Design • Content Structure • UX",
+        "Store Design | UX Strategy | Content Structure",
+    
       platform:
         "Shopify",
     },
+
+    {
+      title: "Wahaj Gold Website (Staging)",
+    
+      challenge:
+        "Build and prepare the company's primary website before launch while establishing a reliable staging environment.",
+    
+      solution:
+        "Implemented the WordPress website, configured hosting resources, managed cPanel setup, and prepared the platform for launch through a dedicated staging environment.",
+    
+      role:
+        "WordPress Development | Hosting Setup | cPanel Configuration | Website Management",
+    
+      platform:
+        "WordPress | Hosting | cPanel",
+    },
+
+    {
+      title: "Twenty Seven Marketing",
+    
+      challenge:
+        "Create a professional online presence that clearly communicates the agency's capabilities and services.",
+    
+      solution:
+        "Designed and managed a Wix-based website focused on clarity, service presentation, and credibility.",
+    
+      role:
+        "Website Design | UX Planning | Content Structure",
+    
+      platform:
+        "Wix",
+    },
+
   ];
 
   return (
