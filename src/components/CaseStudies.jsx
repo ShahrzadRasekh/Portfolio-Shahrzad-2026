@@ -96,16 +96,19 @@ export default function CaseStudies() {
       title: "eGold Centre (Digital Gold & Silver Investment Platform)",
     
       challenge:
-        "Design a user-friendly digital investment experience for customers interested in purchasing, managing, and trading gold and silver online while maintaining trust, transparency, and regulatory credibility.",
+        "Design a user-friendly digital investment experience for customers interested in purchasing, managing, and trading gold and silver online while maintaining trust, transparency, and credibility.",
     
       solution:
-        "Designed comprehensive wireframes and user flows covering onboarding, account management, precious metals purchasing, portfolio tracking, transactions, and educational content. The experience was structured to simplify complex financial processes and improve user confidence throughout the investment journey.",
+        "Designed comprehensive wireframes and user flows covering onboarding, account management, precious metals purchasing, portfolio tracking, transactions, and educational content.",
     
       role:
         "UX Strategy | Wireframing | User Journey Design | Information Architecture | Fintech UX",
     
       platform:
         "Figma",
+    
+      wireframe:
+        "https://www.figma.com/design/bDByQftOPpU8GqoC2JuXt8/egoldcentre.com?t=Xz5Gre30SXXP5XBG-1",
     },
 
   ];
