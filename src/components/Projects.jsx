@@ -4,7 +4,7 @@ export default function Projects() {
       title: "Wahaj Gold",
       category: "Custom Coded Landing Page",
       image:
-      "/images/landingwahaj.png" ,
+      "/images/wahajgold1.webp" ,
       link: "https://wahajgold.com",
       description:
         "Designed and developed a premium landing page experience for a luxury precious metals brand.",
@@ -34,7 +34,7 @@ export default function Projects() {
       title: "Twenty Seven Marketing",
       category: "Wix Agency Website",
       image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+        "/images/twentyseven.webp",
       link: "https://www.twenty-sevenmarketing.com",
       description:
         "Marketing agency website built to communicate services and expertise clearly.",
