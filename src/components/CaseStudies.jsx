@@ -76,6 +76,21 @@ export default function CaseStudies() {
         "Wix",
     },
 
+    {
+      title: "SAM PM Institute",
+    
+      challenge:
+        "Create an educational platform that delivers industry knowledge through a structured and accessible online experience.",
+    
+      solution:
+        "Supported website structure, content organization, and user experience improvements to make learning resources easier to access and navigate.",
+    
+      role:
+        "Website Management | Content Organization | UX Planning",
+    
+      platform:
+        "WordPress",
+    },
   ];
 
   return (
