@@ -47,7 +47,7 @@ export default function Projects() {
         "/images/saminst1.webp",
       link: "https://sampm.institute",
       description:
-        "LContributed to the development and management of an educational platform focused on precious metals and industry knowledge. Organized content structure and user experience to make learning resources accessible, engaging, and easy to navigate for professionals and learners alike.",
+        "Contributed to the development and management of an educational platform focused on precious metals and industry knowledge. Organized content structure and user experience to make learning resources accessible, engaging, and easy to navigate for professionals and learners alike.",
     },
 
     {
