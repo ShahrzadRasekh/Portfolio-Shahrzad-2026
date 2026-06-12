@@ -7,7 +7,7 @@ export default function Projects() {
       "/images/wahajgold1.webp" ,
       link: "https://wahajgold.com",
       description:
-        "Designed and developed a premium landing page experience for a luxury precious metals brand.",
+        "Designed and developed a custom-coded landing page for a precious metals brand, focused on premium positioning, trust-building, and lead generation through clear messaging and modern user experience principles.",
     },
   
     {
@@ -17,7 +17,7 @@ export default function Projects() {
         "/images/sam1.webp",
       link: "https://sampreciousmetals.com",
       description:
-        "Corporate website focused on trust, credibility, and B2B lead generation.",
+        "Supported the ongoing development and management of the company's digital presence through website optimization, content organization, and user experience improvements. Focused on creating a professional and informative platform that effectively communicates the company's services, expertise, and industry credibility to clients and investors.",
     },
   
     {
@@ -27,7 +27,7 @@ export default function Projects() {
       "/images/taj3.webp",
       link: "https://tajsignature.com",
       description:
-        "Luxury Shopify store with a strong focus on premium customer experience.(Password; Taj321)",
+        "Developed and managed a luxury e-commerce experience focused on premium product presentation, brand storytelling, and customer engagement. Organized content and user flows to create a seamless shopping experience aligned with the brand's high-end positioning.(Password; Taj321)",
     },
   
     {
@@ -37,7 +37,7 @@ export default function Projects() {
         "/images/twentyseven2.webp",
       link: "https://www.twenty-sevenmarketing.com",
       description:
-        "Marketing agency website built to communicate services and expertise clearly.",
+        "Designed and managed the agency's website to clearly communicate services, expertise, and brand positioning. Structured content and user journeys to help potential clients understand the agency's capabilities while maintaining a professional and engaging digital experience.",
     },
   
     {
@@ -47,7 +47,7 @@ export default function Projects() {
         "/images/saminst1.webp",
       link: "https://sampm.institute",
       description:
-        "Learning-focused platform designed to support precious metals education.",
+        "LContributed to the development and management of an educational platform focused on precious metals and industry knowledge. Organized content structure and user experience to make learning resources accessible, engaging, and easy to navigate for professionals and learners alike.",
     },
 
     {
@@ -56,7 +56,7 @@ export default function Projects() {
       image: "/images/wahajstaging.webp",
       link: "https://staging.wahajgold.com",
       description:
-        "WordPress website implementation including hosting setup, cPanel configuration, staging environment management, and launch preparation.",
+        "Implemented and managed the WordPress website, including hosting setup, cPanel configuration, staging environment management, content organization, and launch preparation to support future business growth.",
     },
   ];
 
