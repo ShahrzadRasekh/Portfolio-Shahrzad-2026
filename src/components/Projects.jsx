@@ -34,7 +34,7 @@ export default function Projects() {
       title: "Twenty Seven Marketing",
       category: "Wix Agency Website",
       image:
-        "/images/twentyseven.webp",
+        "/images/twentyseven2.webp",
       link: "https://www.twenty-sevenmarketing.com",
       description:
         "Marketing agency website built to communicate services and expertise clearly.",
