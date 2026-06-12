@@ -11,15 +11,14 @@ export default function Projects() {
     },
   
     {
-      title: "SAM Precious Metals",
-      category: "WordPress Corporate Website",
-      image:
-        "/images/sam1.webp",
-      link: "https://sampreciousmetals.com",
+      title: "Wahaj Gold Website",
+      category: "WordPress Website & Hosting Setup",
+      image: "/images/wahajstaging.webp",
+      link: "https://staging.wahajgold.com",
       description:
-        "Website management, content organization, and UX improvements for a leading precious metals company.",
+        "WordPress website implementation including hosting setup, cPanel configuration, staging management, and launch preparation.",
     },
-  
+
     {
       title: "Taj Signature",
       category: "Shopify E-commerce",
@@ -28,6 +27,16 @@ export default function Projects() {
       link: "https://tajsignature.com",
       description:
         "Luxury Shopify storefront designed to deliver a premium e-commerce experience and strong brand presentation.(Password:Taj321)",
+    },
+
+    {
+      title: "SAM Precious Metals",
+      category: "WordPress Corporate Website",
+      image:
+        "/images/sam1.webp",
+      link: "https://sampreciousmetals.com",
+      description:
+        "Website management, content organization, and UX improvements for a leading precious metals company.",
     },
   
     {
@@ -50,14 +59,6 @@ export default function Projects() {
         "Educational platform supporting structured learning experiences and industry-focused content delivery.",
     },
 
-    {
-      title: "Wahaj Gold Website",
-      category: "WordPress Website & Hosting Setup",
-      image: "/images/wahajstaging.webp",
-      link: "https://staging.wahajgold.com",
-      description:
-        "WordPress website implementation including hosting setup, cPanel configuration, staging management, and launch preparation.",
-    },
   ];
 
   return (
