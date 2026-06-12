@@ -1,17 +1,6 @@
 export default function CaseStudies() {
   const studies = [
-    {
-      title: "Wahaj Gold (Landing Page)",
-      challenge:
-        "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
-      solution:
-        "Designed and developed a custom landing page focused on trust, visual storytelling, and lead generation.",
-      role:
-        "UX Strategy • Web Design • Development • Content Structure",
-      platform:
-        "React • GitHub • Vercel",
-    },
-
+    
     {
       title: "Wahaj Gold Website (Staging)",
     
@@ -26,6 +15,18 @@ export default function CaseStudies() {
     
       platform:
         "WordPress | Hosting | cPanel",
+    },
+
+    {
+      title: "Wahaj Gold (Landing Page)",
+      challenge:
+        "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
+      solution:
+        "Designed and developed a custom landing page focused on trust, visual storytelling, and lead generation.",
+      role:
+        "UX Strategy • Web Design • Development • Content Structure",
+      platform:
+        "React • GitHub • Vercel",
     },
 
     {
@@ -51,7 +52,7 @@ export default function CaseStudies() {
         "Develop a luxury e-commerce experience aligned with the brand's artistic and premium positioning.",
     
       solution:
-        "Built and managed a Shopify storefront with a focus on elegant product presentation and customer experience.",
+        "Built and managed a customized Shopify storefront with a focus on elegant product presentation and customer experience.",
     
       role:
         "Store Design | UX Strategy | Content Structure",

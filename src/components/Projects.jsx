@@ -27,7 +27,7 @@ export default function Projects() {
       "/images/taj3.webp",
       link: "https://tajsignature.com",
       description:
-        "Luxury Shopify storefront designed to deliver a premium e-commerce experience and strong brand presentation.(Password; Taj321)",
+        "Luxury Shopify storefront designed to deliver a premium e-commerce experience and strong brand presentation.(Password:Taj321)",
     },
   
     {
