@@ -22,7 +22,7 @@ export default function CaseStudies() {
       challenge:
         "Create a premium digital experience that reflects the luxury positioning of a precious metals brand.",
       solution:
-        "Designed and developed a custom landing page focused on trust, visual storytelling, and lead generation.",
+        "Designed and developed a custom landing page (Launching Soon) focused on trust, visual storytelling, and lead generation.",
       role:
         "UX Strategy • Web Design • Development • Content Structure",
       platform:
