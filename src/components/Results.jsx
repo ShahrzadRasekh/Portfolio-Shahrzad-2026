@@ -12,7 +12,7 @@ export default function Results() {
           </div>
 
           <div className="stat">
-            <h2>50+</h2>
+            <h2>20+</h2>
             <p>Web Projects</p>
           </div>
 

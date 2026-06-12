@@ -13,6 +13,22 @@ export default function CaseStudies() {
     },
 
     {
+      title: "Wahaj Gold Website (Staging)",
+    
+      challenge:
+        "Build and prepare the company's primary website before launch while establishing a reliable staging environment.",
+    
+      solution:
+        "Implemented the WordPress website, configured hosting resources, managed cPanel setup, and prepared the platform for launch through a dedicated staging environment.",
+    
+      role:
+        "WordPress Development | Hosting Setup | cPanel Configuration | Website Management",
+    
+      platform:
+        "WordPress | Hosting | cPanel",
+    },
+
+    {
       title: "SAM Precious Metals",
     
       challenge:
@@ -42,22 +58,6 @@ export default function CaseStudies() {
     
       platform:
         "Shopify",
-    },
-
-    {
-      title: "Wahaj Gold Website (Staging)",
-    
-      challenge:
-        "Build and prepare the company's primary website before launch while establishing a reliable staging environment.",
-    
-      solution:
-        "Implemented the WordPress website, configured hosting resources, managed cPanel setup, and prepared the platform for launch through a dedicated staging environment.",
-    
-      role:
-        "WordPress Development | Hosting Setup | cPanel Configuration | Website Management",
-    
-      platform:
-        "WordPress | Hosting | cPanel",
     },
 
     {
