@@ -10,7 +10,7 @@ export default function Navbar() {
   <a href="#about">About</a>
   <a href="#expertise">Expertise</a>
   <a href="#case-studies">Case Studies</a>
-  <a href="#contact">Contact</a>
+  <a href="#contact">contact</a>
 </div>
       </div>
     </nav>
