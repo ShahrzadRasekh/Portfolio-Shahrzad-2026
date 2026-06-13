@@ -331,3 +331,15 @@ h3 {
 .nav-links a:hover {
   color: #B68D40;
 }
+
+.case-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: #B68D40;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.case-link:hover {
+  text-decoration: underline;
+}

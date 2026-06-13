@@ -146,7 +146,16 @@ export default function CaseStudies() {
                 <h4>Platform</h4>
                 <p>{study.platform}</p>
               </div>
-
+              {study.wireframe && (
+  <a
+    href={study.wireframe}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="case-link"
+  >
+    View Wireframes →
+  </a>
+)}
             </div>
 
           </div>
