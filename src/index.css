@@ -122,6 +122,27 @@ h3 {
   transition: all 0.3s ease;
 }
 
+
+.hero-buttons a {
+  text-decoration: none;
+}
+
+.primary-btn {
+  color: white;
+}
+
+.secondary-btn {
+  color: #111827;
+}
+
+.primary-btn,
+.secondary-btn {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
 .hero-buttons button:hover {
   transform: translateY(-3px);
 }
@@ -369,15 +390,22 @@ h3 {
 }
 
 .contact-links a {
-  padding: 14px 28px;
-  border-radius: 999px;
-  background: #111827;
-  color: white;
-  text-decoration: none;
-  transition: 0.3s;
-}
+  background: white;
+  color: #111827;
 
+  border: 1px solid #d1d5db;
+
+  text-decoration: none;
+
+  padding: 14px 28px;
+
+  border-radius: 999px;
+
+  transition: all 0.3s ease;
+}
 .contact-links a:hover {
-  transform: translateY(-3px);
+  background: #B68D40;
+  color: white;
+  border-color: #B68D40;
 }
 
