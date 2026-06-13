@@ -6,8 +6,7 @@ export default function Contact() {
           <h2>Let's Work Together</h2>
   
           <p>
-            I'm always interested in meaningful projects,
-            remote opportunities, and collaborations.
+          I'm always open to meaningful projects, remote opportunities, and collaborations that create lasting digital impact.
           </p>
   
           <div className="contact-links">
