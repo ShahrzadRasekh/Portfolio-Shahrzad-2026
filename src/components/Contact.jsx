@@ -32,7 +32,7 @@ export default function Contact() {
               GitHub
             </a>
   
-            <a href="/ShahrzadRasekhResume2026.pdf" download>
+            <a href="/public/ShahrzadRasekhResume2026.pdf" download>
               Download Resume
             </a>
   
