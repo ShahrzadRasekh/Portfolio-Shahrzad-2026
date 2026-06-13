@@ -24,9 +24,9 @@ export default function CaseStudies() {
       solution:
         "Designed and developed a custom landing page (Launching Soon) focused on trust, visual storytelling, and lead generation.",
       role:
-        "UX Strategy • Web Design • Development • Content Structure",
+        "UX Strategy | Web Design | Development | Content Structure",
       platform:
-        "React • GitHub • Vercel",
+        "React | GitHub | Vercel",
     },
 
     {
@@ -103,7 +103,7 @@ export default function CaseStudies() {
         "Designed comprehensive wireframes and user flows covering onboarding, account management, precious metals purchasing, portfolio tracking, transactions, and educational content.",
     
       role:
-        "UX Strategy | Wireframing | User Journey Design | Information Architecture | Fintech UX",
+        "UX Strategy | Wireframing | User Journey Design | Information Architecture",
     
       platform:
         "Figma",
