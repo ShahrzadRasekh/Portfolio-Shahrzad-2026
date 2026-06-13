@@ -631,3 +631,34 @@ html {
     text-align: center;
   }
 }
+.hero-buttons {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.primary-btn,
+.secondary-btn {
+  padding: 16px 32px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all .3s ease;
+}
+
+.primary-btn {
+  background: #B68D40;
+  color: white;
+}
+
+.secondary-btn {
+  background: white;
+  color: #111827;
+  border: 1px solid #d1d5db;
+}
+
+.primary-btn:hover,
+.secondary-btn:hover {
+  transform: translateY(-3px);
+}
