@@ -166,7 +166,7 @@ HERO
   font-size: 18px;
   font-weight: 600;
 
-  border: 1px solid #d1d5db;
+  border: 2px solid #B68D40;
 
   transition: all 0.3s ease;
 }
@@ -565,13 +565,21 @@ HERO
     line-height: 1.7;
   }
 
-  .hero-buttons {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-    align-items: center;
-  }
+  @media (max-width: 768px) {
 
+    .hero-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .primary-btn,
+    .secondary-btn {
+      width: 100%;
+      max-width: 320px;
+      text-align: center;
+    }
+  
+  }
   /* ABOUT */
 
   .about h2,
