@@ -78,7 +78,7 @@ export default function CaseStudies() {
     },
 
     {
-      title: "SAMPM Institute",
+      title: "SAM Precious Metals Institute",
     
       challenge:
         "Create an educational platform that delivers industry knowledge through a structured and accessible online experience.",
