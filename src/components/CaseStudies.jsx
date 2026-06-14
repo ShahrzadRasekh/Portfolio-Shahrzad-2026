@@ -52,7 +52,7 @@ export default function CaseStudies() {
         "Develop a luxury e-commerce experience aligned with the brand's artistic and premium positioning.",
     
       solution:
-        "Built and managed a customized Shopify storefront with a focus on elegant product presentation and customer experience.",
+        "Built and managed a customized Shopify store with a focus on handmade jewelry product presentation and customer experience.",
     
       role:
         "Store Design | UX Strategy | Content Structure",
@@ -103,7 +103,7 @@ export default function CaseStudies() {
         "Designed comprehensive wireframes and user flows covering onboarding, account management, precious metals purchasing, portfolio tracking, transactions, and educational content.",
     
       role:
-        "UX Strategy | Wireframing | User Journey Design | Information Architecture",
+        "UX Strategy | Wireframing | User Journey Design",
     
       platform:
         "Figma",
