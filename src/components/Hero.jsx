@@ -20,22 +20,20 @@ export default function Hero() {
         </p>
 
         <div className="hero-buttons">
-          <button>
-          <a href="#projects" className="primary-btn">
+
+<a href="#projects" className="primary-btn">
   Explore My Work
 </a>
-          </button>
 
-          <button className="secondary">
-          <a
+<a
   href="/ShahrzadRasekhResume2026.pdf"
   download
   className="secondary-btn"
 >
   Download Resume
 </a>
-          </button>
-        </div>
+
+</div>
 
       </div>
 
