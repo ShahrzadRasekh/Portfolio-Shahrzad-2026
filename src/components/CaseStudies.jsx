@@ -33,7 +33,7 @@ export default function CaseStudies() {
       title: "SAM Precious Metals",
     
       challenge:
-        "Enhance the company's online presence and improve communication with B2B clients, investors, and partners.",
+        "Enhance the company's online presence and improve communication with B2B clients, investors, and partners in precious metals industry.",
     
       solution:
         "Managed website structure, content updates, user experience improvements, and ongoing website optimization initiatives.",
@@ -84,7 +84,7 @@ export default function CaseStudies() {
         "Create a training platform that delivers industry knowledge through a structured and accessible online experience.",
     
       solution:
-        "Supported website structure, content organization, and user experience improvements to make learning resources easier to access and navigate.",
+        "Supported website structure, content organization, and user experience improvements to make learning courses easier to access and navigate.",
     
       role:
         "Website Management | Content Organization | UX Planning",

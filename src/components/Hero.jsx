@@ -14,9 +14,7 @@ export default function Hero() {
         </h1>
 
         <p className="hero-description">
-          With 15+ years of experience, I help businesses build
-          elegant websites and landing pages, and optimize customer journeys
-          that drive growth.
+        I have over 15 years of experience working with businesses to design beautiful, SEO/Audience-oriented websites and landing pages and optimize client journeys that generate growth.
         </p>
 
         <div className="hero-buttons">

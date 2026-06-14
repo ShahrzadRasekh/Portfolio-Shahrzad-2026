@@ -36,7 +36,7 @@ export default function Projects() {
         "/images/sam1.webp",
       link: "https://sampreciousmetals.com",
       description:
-        "Website management, content organization, and UX improvements for a leading precious metals company.",
+        "Website management, content organization, and UX improvements for a leading precious metals (Gold and Silver) company.",
     },
   
     {
@@ -46,7 +46,7 @@ export default function Projects() {
         "/images/twentyseven2.webp",
       link: "https://www.twenty-sevenmarketing.com",
       description:
-        "Agency website focused on service presentation, credibility, and user-focused content structure.",
+        "Marketing company's website focused on service presentation, credibility, and user-focused content structure.",
     },
   
     {
