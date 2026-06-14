@@ -103,7 +103,7 @@ export default function CaseStudies() {
         "Designed comprehensive wireframes and user flows covering onboarding, account management, precious metals purchasing, portfolio tracking, transactions, and educational content.",
     
       role:
-        "UX Strategy | Wireframing | User Journey Design",
+        "UX Strategy | Wireframing | User Journey Design ",
     
       platform:
         "Figma",
