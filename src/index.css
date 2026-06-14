@@ -68,101 +68,116 @@ html {
   .nav-links a:hover {
   color: #B68D40;
   }
-  
   /* =========================
-  HERO
-  ========================= */
-  
-  .hero {
+HERO
+========================= */
+
+.hero {
   min-height: 90vh;
   display: flex;
   align-items: center;
-  
+
   background: linear-gradient(
-  135deg,
-  #fafafa 0%,
-  #f4f4f4 100%
+    135deg,
+    #fafafa 0%,
+    #f4f4f4 100%
   );
-  }
-  
-  .hero-content {
+}
+
+.hero-content {
   max-width: 900px;
   margin: auto;
   text-align: center;
   padding: 40px;
-  }
-  
-  .hero-label {
+}
+
+.hero-label {
   color: #B68D40;
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 24px;
-  }
-  
-  .hero h1 {
+}
+
+.hero h1 {
   font-size: 72px;
   line-height: 1.1;
   margin-bottom: 24px;
-  }
-  
-  .hero-description {
+}
+
+.hero-description {
   font-size: 22px;
   color: #6b7280;
   line-height: 1.8;
   max-width: 700px;
   margin: auto;
-  }
-  
-  .hero-buttons {
+}
+
+.hero-buttons {
   margin-top: 40px;
-  
+
   display: flex;
   justify-content: center;
   gap: 20px;
   flex-wrap: wrap;
-  }
-  
-  .hero-buttons a {
+}
+
+.hero-buttons a {
   text-decoration: none;
-  }
-  
-  .primary-btn {
+}
+
+/* Primary Button */
+
+.primary-btn {
   display: inline-block;
-  
+
   background: #B68D40;
   color: white;
-  
+
   padding: 16px 32px;
-  
+
   border-radius: 14px;
-  
+
+  font-size: 18px;
   font-weight: 600;
-  
+
+  border: 1px solid #B68D40;
+
   transition: all 0.3s ease;
-  }
-  
-  .secondary-btn {
+}
+
+.primary-btn:hover {
+  transform: translateY(-3px);
+
+  box-shadow: 0 10px 25px rgba(182, 141, 64, 0.25);
+}
+
+/* Resume Button */
+
+.secondary-btn {
   display: inline-block;
-  
+
   background: white;
   color: #111827;
-  
-  border: 1px solid #d1d5db;
-  
+
   padding: 16px 32px;
-  
+
   border-radius: 14px;
-  
+
+  font-size: 18px;
   font-weight: 600;
-  
+
+  border: 1px solid #d1d5db;
+
   transition: all 0.3s ease;
-  }
-  
-  .primary-btn:hover,
-  .secondary-btn:hover {
+}
+
+.secondary-btn:hover {
+  background: #111827;
+  color: white;
+  border-color: #111827;
+
   transform: translateY(-3px);
-  }
-  
+}
   /* =========================
   ABOUT
   ========================= */
@@ -555,12 +570,6 @@ html {
     flex-direction: column;
     gap: 16px;
     align-items: center;
-  }
-
-  .hero-buttons button {
-    width: 100%;
-    max-width: 320px;
-    margin: 0;
   }
 
   /* ABOUT */
