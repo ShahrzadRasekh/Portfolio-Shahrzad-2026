@@ -9,7 +9,9 @@ export default function About() {
         <p>
         I help businesses transform ideas into trusted digital experiences.
 
-With more than 15 years of experience,  I’ve worked on websites, e-commerce platforms, landing pages, and digital products, combining strategy, user experience, and execution to create solutions that are clear, credible, and built for growth.
+With more than 15 years of experience,  I’ve worked on websites, e-commerce platforms, landing pages, and digital products, combining strategy, user experience, and execution to create solutions that are clear, credible, and built for growth. 
+
+Leaving home, embracing uncertainty, learning through experience, and continuing forward with renewed purpose have all shaped the way I design today. 
 
 
         </p>
