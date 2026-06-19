@@ -5,16 +5,15 @@ export default function Hero() {
       <div className="hero-content">
 
         <p className="hero-label">
-          Senior Web Developer • UX Strategist • Digital Experience Specialist
+          Senior Web Developer | Crafting Premium Websites for Ambitious Brands
         </p>
 
         <h1>
-          Transforming Ideas Into
-          High-Performing Digital Experiences
+        Designing websites people remember.
         </h1>
 
         <p className="hero-description">
-        I have over 15 years of experience working with businesses to design beautiful, SEO/Audience-oriented websites and landing pages and optimize client journeys that generate growth.
+        Every project begins with a conversation, a vision, and the belief that thoughtful design can change the way people experience a brand.
         </p>
 
         <div className="hero-buttons">
