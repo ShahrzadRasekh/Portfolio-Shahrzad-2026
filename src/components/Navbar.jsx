@@ -8,9 +8,9 @@ export default function Navbar() {
 
         <div className="nav-links">
   <a href="#about">About</a>
-  <a href="#expertise">Expertise</a>
+  <a href="#projects">Selected Work</a>
   <a href="#case-studies">Case Studies</a>
-  <a href="#contact">contact</a>
+  <a href="#contact">Let's Talk</a>
 </div>
       </div>
     </nav>
