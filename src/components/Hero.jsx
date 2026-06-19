@@ -23,11 +23,10 @@ export default function Hero() {
 </a>
 
 <a
-  href="/ShahrzadRasekhResume2026.pdf"
-  download
+  href="#case-studies" 
   className="secondary-btn"
 >
-  Download Resume
+View Case Studies
 </a>
 
 </div>
